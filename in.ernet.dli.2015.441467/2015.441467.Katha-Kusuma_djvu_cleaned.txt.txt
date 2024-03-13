@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 I read with great interest a major part of the
 Kathakusuma vali' a book of selected Sanskrit
 passages, edited by Mr. Kshirsagar. A significant
@@ -56,4 +57,64 @@ lesson, a collection of illustrations of Sanskrit
 ज्येष्ठायाः ज्येष्ठा नांवाची एक देवता, तिच्यापासून. [ ज्येष्ठा
 'नामकी देवता, उस के पास से ]. वर्षिष्ठो रोगीक्षुखि -- अगदी
 जुनाट व रोगट उसानमणें [ बिलकुल पुरानें व रोगी इक्षु
+=======
+I read with great interest a major part of the
+Kathakusuma vali' a book of selected Sanskrit
+passages, edited by Mr. Kshirsagar. A significant
+feature of this work, which distinguishes it from
+any other work of the same type, is the altuge-
+ther new region in the rich domain of Sanskrit
+literature which is represented here. The con-
+tribution of Jainism to Sanskrit literature,
+though so far not adequately estimated, has
+been considerable. Here, in this book, Mr.
+Kshirsagar makes a laudable attempt to introd-
+uce to the students Jain life and culture, som-
+etimes from original sources, sometimes through
+his own words. The passages selected show a
+great variety in matter and in form and they
+are conveniently arranged to the needs of
+advancing students of Sanskrit. The editor's
+own style is sufficiently lucid and graceful. The
+exercises [parikshi] given at the end of each
+lesson, a collection of illustrations of Sanskrit
+
+2
+
+अनुक्तोऽपि गुणो के विद्यमानः प्रकाशते ।
+प्रकटीक्रियते न विवस्वानुदितो जने १ ॥ १ ॥
+अयं खलु खलाचारों यद्धलात्कारदर्शनम् ।
+स्वगुणकीर्तनं दोषोद्भावनं च परेषु यत् ॥२॥
+अयं लघुर्महानेष न चिन्ता हि महात्मसु ।
+नद्याः पूरक वाद्यान्ति समं तीरतृणद्रुमाः ॥३॥
+अविचिन्तितमप्ययत्नतः स्वयमुत्पादयति प्रयोजनम् ।
+विधिरेकपदे निरङ्कुशः कुशलं वाकुशलं च देहिनाम्४
+असहायः समर्थोऽपि न जातु हितसिद्धये ।
+न हि सस्यापि न दीपकः ||५||||
+अहंकारविहीनस्य किं विवेकेन भूभुजः ? ।
+नरे कांतरचित्ते हि कः स्यादत्रपरिग्रहः १ ॥६॥
+अन्तर्मदं करिपतेरिव बृंहितानि
+मातः करा इव दिनेश मुदीयमानम् ।
+लोकाधिपत्यमिव भावि विनान्तरायं
+प्रख्यापयन्ति पुरुषस्य विचेष्टितानि ||७||
+
+3
+
+अहंकारविहीनस्य - प्रयत्न न करणाऱ्या [प्रयत्न नहीं कर-
+नेवाला ] प्रख्यापयन्ति - ( प्र + ख्या) प्रयोजक वर्तमान तृ. पु.
+ब. [ प्रसिद्ध करते हैं ]. प्रपादं मा गाः- बेसावध राहू नको.
+[ प्रमाद मत करो ]. शेवालशालिन्युपले - शेवाळानें शोभिवंत
+दिसणाऱ्या दगडावर शेवालसे शोभित होनेवाले शिलातटपर J.
+स्वर्णाद्रिशृंगाप्रम् -- मेरुपर्वताचें शिखर. [मेरुपर्वत का शिखर ]-
+उपालब्धुम् - निंदण्यासाठी. [ निंदा करने के लिए ]. सुरभीकुरुते-
+चिप्रयोग; सुगंवित करते. [ सुगंधित करता है ]. स्वाः परे च
+विकुर्वते - सख्खे व परके सुद्धां बदलतात. [ अपने व दुसरे भी
+बदल जाते हैं ]. कर्णाभ्यर्णे- कानाजवळ. [ कान के पास 1.
+जानिये - - ( जाता निद्रा यस्य । तस्मिन् । ) झोपला असता.
+[ से ेते हुए ] बन्धुप्रणमन् भावानें ( जर ) नमस्कार केला
+नाहीं (तर). [ भाईने (यदि ) नमस्कार नहीं किया ( तो ) ].
+ज्येष्ठायाः ज्येष्ठा नांवाची एक देवता, तिच्यापासून. [ ज्येष्ठा
+'नामकी देवता, उस के पास से ]. वर्षिष्ठो रोगीक्षुखि -- अगदी
+जुनाट व रोगट उसानमणें [ बिलकुल पुरानें व रोगी इक्षु
+>>>>>>> 7fe6506f096b6d97db3956436740cb723ae3dd40
 के समान ]. उदन्यन् - तहानलेला. [प्यासे ] अनियत गतिस-
